@@ -9,10 +9,8 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" align="left" alt="Docker" height='42px'/> </a>
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" align="left" alt="Kubernetes" height='42px'/> </a>
-<a href="https://aws.amazon.com/" target="_blank"> <img src="https://camo.githubusercontent.com/642a86e237f50c880c0da224a33e72abb14d3ee449a4ed738ad4fc0919dc5d81/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3130302669643d333330333926666f726d61743d706e6726636f6c6f723d303030303030" align="left" alt="aws" height='42px'/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" align="left" alt="aws" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-
-<br>
 
 ### 📊 Github Stats
 
